@@ -7,6 +7,7 @@
 ### Technologies
 - HTML 5 (Box shadow layout)
 - CSS 3
+- @mdia query (Resposive mobile view)
 
 ###  learn about diffrent type box shadow css property and html element
 #####   Understand about box shadow property
